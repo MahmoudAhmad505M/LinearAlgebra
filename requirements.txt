@@ -1,0 +1,10 @@
+# Scientific computing
+numpy
+scipy
+sympy
+matplotlib
+
+# VS Code notebook kernel and reproducibility checks
+ipykernel
+nbformat
+nbclient
